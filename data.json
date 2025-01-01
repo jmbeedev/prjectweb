@@ -1,0 +1,40 @@
+{
+  "logo": {
+    "text": "Kelly Adams",
+    "alt": "Kelly Adams - Professional Illustrator"
+  },
+  "menu": [
+    { "text": "Home", "link": "#" },
+    { "text": "About", "link": "#about" },
+    { "text": "Resume", "link": "#resume" },
+    { "text": "Services", "link": "#services" },
+    { "text": "Portfolio", "link": "#portfolio" },
+    { "text": "Contact", "link": "#contact" }
+  ],
+  "social": [
+    { "icon": "bi bi-facebook", "link": "https://facebook.com" },
+    { "icon": "bi bi-twitter", "link": "https://twitter.com" },
+    { "icon": "bi bi-instagram", "link": "https://instagram.com" }
+  ],
+  "hero": {
+    "title": "Kelly Adams",
+    "subtitle": "I'm a professional illustrator from San Francisco",
+    "button": {
+      "text": "ABOUT ME",
+      "link": "#about"
+    },
+    "image": {
+      "src": "https://via.placeholder.com/500",
+      "alt": "A professional illustrator working at a desk with a laptop and a vase of flowers"
+    }
+  },
+  "footer": {
+    "text": "&copy; 2025 Kelly Adams. All Rights Reserved.",
+    "design": "Designed by BootstrapMade. Distributed by ThemeWagon.",
+    "social": [
+      { "icon": "bi bi-facebook", "link": "https://facebook.com" },
+      { "icon": "bi bi-twitter", "link": "https://twitter.com" },
+      { "icon": "bi bi-instagram", "link": "https://instagram.com" }
+    ]
+  }
+}
